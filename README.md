@@ -21,5 +21,5 @@ Diller: İngilizce
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaydgryl&layout=compact&theme=radical)
 
 📫 İletişim
-LinkedIn: [linkedin.com/in/berkay-doğruyol](https://linkedin.com/in/berkay-doğruyol) 
+LinkedIn: [linkedin.com/in/berkay-doğruyol](https://linkedin.com/in/berkaydgryl) 
 E-posta: berkaydgryl@gmail.com
