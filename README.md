@@ -17,6 +17,8 @@ Akademia WSB (2025 Bahar): Polonya'da uluslararası mühendislik deneyimi
 Diller: İngilizce 
 
 📊 İstatistiklerim
+
+
 ![Berkay's Stats](https://github-readme-stats.vercel.app/api?username=berkaydgryl&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkaydgryl&layout=compact&theme=radical)
 
